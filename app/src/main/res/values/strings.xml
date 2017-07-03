@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Vehicle Market</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Vehicle Listings</string>
+
+    <!-- labels to identify fragments -->
+    <string name="my_profile">You are on My Profile view</string>
+    <string name="my_inventory">You are on My Inventory View</string>
+    <string name="my_requests">You are on My Requests View</string>
+    <string name="settings">You are on Settings view</string>
+    <string name="help">You are on Help View</string>
+    <string name="signout">You are on Signout view</string>
+    <!-- end of label to identify fragments -->
+
+
+    <string name="terms">I ACKNOWLEDGE THAT I HAVE READ AND AGREE WITH THE TERMS AND CONDITIONS</string>
+
+    <!--Prompt messages-->
+    <string name="make_prompt">Select A Make</string>
+    <string name="model_prompt">Select A Model</string>
+    <string name="drivetrain_prompt">Select Drivetrain</string>
+    <string name="engine_prompt">Select Engine</string>
+    <string name="transmission_prompt">Select Transmission</string>
+    <string name="car_type_prompt">Select Car Type</string>
+    <string name="car_color_prompt">Select Car Color</string>
+    <string name="year_prompt">Select year</string>
+    <string name="distance_prompt">Select Miles/Kilometers</string>
+    <string name="account_type_prompt">Choose Account Type</string>
+
+    <!-- Label string for various interfaces -->
+
+    <!-- checkbox labels -->
+    <string name="vat">VAT</string>
+    <string name="por">Price On Request</string>
+
+    <string name="price">$599,000.00</string>
+    <string name="specs">Specs</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="model_variation">Model variation</string>
+    <string name="year">Year</string>
+    <string name="drivetrain">Drivetrain</string>
+    <string name="engine">Engine</string>
+    <string name="transmission">Transmission</string>
+    <string name="mileage">Mileage</string>
+    <string name="vin">Vin</string>
+    <string name="stock_no">Stock #</string>
+    <string name="ext_color">Ext. Color</string>
+    <string name="int_color">Int. Color</string>
+    <string name="owner">Natasha Sambu</string>
+    <string name="message_owner">Message Owner</string>
+    <string name="vehicle_images">Show vehicle images</string>
+
+    <!-- user profile lables -->
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="location">City</string>
+    <string name="company">Company Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="autofolio">Auto Folio</string>
+    <string name="requests">Requests</string>
+
+</resources>
